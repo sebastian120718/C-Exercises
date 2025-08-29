@@ -7,6 +7,15 @@ El tipo de dato `char` en C se utiliza para almacenar un solo carácter, como un
 - Puede almacenar cualquier carácter ASCII.
 - Se usa para manipular texto carácter por carácter.
 
+## ¿Cómo ejecutar el ejemplo?
+
+1. Abre una terminal en esta carpeta.
+2. Compila el archivo con:
+	```bash
+	gcc ejemplo_char.c -o ejemplo_char
+	./ejemplo_char
+	```
+
 ## Ejercicios propuestos
 1. Escribe un programa que lea un carácter y muestre su código ASCII.
 2. Crea un programa que determine si un carácter es una vocal o consonante.
