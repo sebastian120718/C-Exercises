@@ -7,6 +7,15 @@ El tipo de dato `float` en C se utiliza para representar números reales (con de
 - Precisión: Aproximadamente 6-7 dígitos decimales.
 - Se usa para cálculos con decimales.
 
+## ¿Cómo ejecutar el ejemplo?
+
+1. Abre una terminal en esta carpeta.
+2. Compila el archivo con:
+	```bash
+	gcc ejemplo_float.c -o ejemplo_float
+	./ejemplo_float
+	```
+
 ## Ejercicios propuestos
 1. Escribe un programa que calcule el área de un círculo a partir de su radio (usa `float`).
 2. Crea un programa que convierta grados Celsius a Fahrenheit.

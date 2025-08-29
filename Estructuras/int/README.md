@@ -7,6 +7,15 @@ El tipo de dato `int` en C representa números enteros (positivos, negativos o c
 - Rango aproximado: -2,147,483,648 a 2,147,483,647 (en sistemas de 32 bits).
 - Se usa para representar valores enteros.
 
+## ¿Cómo ejecutar el ejemplo?
+
+1. Abre una terminal en esta carpeta.
+2. Compila el archivo con:
+	```bash
+	gcc ejemplo_int.c -o ejemplo_int
+	./ejemplo_int
+	```
+
 ## Ejercicios propuestos
 1. Escribe un programa que pida al usuario dos números enteros y muestre su suma.
 2. Crea un programa que determine si un número entero ingresado es par o impar.

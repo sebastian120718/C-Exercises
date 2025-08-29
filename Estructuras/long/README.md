@@ -7,6 +7,15 @@ El tipo de dato `long` en C es una variante de los enteros, pero permite almacen
 - Rango: mucho mayor que el de `int`.
 - Se usa para contar o almacenar valores muy grandes.
 
+## ¿Cómo ejecutar el ejemplo?
+
+1. Abre una terminal en esta carpeta.
+2. Compila el archivo con:
+	```bash
+	gcc ejemplo_long.c -o ejemplo_long
+	./ejemplo_long
+	```
+
 ## Ejercicios propuestos
 1. Escribe un programa que calcule el factorial de un número grande usando `long`.
 2. Crea un programa que sume dos números tipo `long` y muestre el resultado.
